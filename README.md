@@ -1,0 +1,1 @@
+https://snake911.github.io/lamp-switch/
